@@ -1,0 +1,2 @@
+(this.webpackJsonpwork=this.webpackJsonpwork||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),o=n(2),c=n.n(o),s=(n(8),function(){return a.a.createElement("div",{className:"prompt_container"},a.a.createElement("p",{className:"prompt"},"Moved  ",a.a.createElement("a",{title:"new website",rel:"noreferrer noopener",href:"https://ammarhalees.com/"},"here.")))});c.a.render(a.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.075934e2.chunk.js.map
